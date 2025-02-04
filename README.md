@@ -1,6 +1,9 @@
 # Getting Started with Google-Flight Project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Loom Video Link
+https://www.loom.com/share/04d1c4ab360b491f945f716649ac2267
+
 ## environment set up
 
 ### `copy .env.example .env`
