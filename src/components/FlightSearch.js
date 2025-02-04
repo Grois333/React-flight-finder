@@ -45,7 +45,7 @@ const FlightSearch = () => {
       const results = await fetchFlights(
         origin.skyId, destination.skyId, origin.entityId, destination.entityId, formData.date
       );
-
+      console.log(results);
       setFlights(results || []);
     } catch (error) {
       console.error("Error during search:", error.message);
